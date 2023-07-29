@@ -295,23 +295,23 @@ section{
     padding: 30px;
 }
 
-/* 
+
 nav ul a:hover{
     text-transform: uppercase;
     color: rgb(0, 0, 0);
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
 
 }
 
 i:hover{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 a:hover{
     text-transform: uppercase;
     font-size: 20px;
-} */
+} 
 
 
 @media screen and (max-width: 768px){
